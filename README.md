@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rezaul Karim</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHeuErVQ5ZE-g/profile-displaybackgroundimage-shrink_200_800/B56Zo4wjymHQAU-/0/1761888853286?e=1764201600&v=beta&t=o1fZzt5gO4YnXWWmWrNzsFeGCXzj2zW97ucZ3NBlMCk">
+
+
 <h3 align="center">Professional Web Developer & WordPress Expert | Web Developer at FREEDOM IT INSTITUTE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrezaul84&label=Profile%20views&color=0e75b6&style=flat" alt="devrezaul84" /> </p>
