@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://i.ibb.co.com/39ZXGD2Q/50-X-50px.jpg" alt="50 X 50px" border="0"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrezaul84" alt="devrezaul84" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://i.ibb.co.com/39ZXGD2Q/50-X-50px.jpg" alt="50 X 50px" border="0"></a> </p>
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com.bd/u/DevRezaulKarim)
 
