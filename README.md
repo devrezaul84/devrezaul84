@@ -3,7 +3,7 @@
 
 <h3 align="center">Professional Web Developer & WordPress Expert | Web Developer at FREEDOM IT INSTITUTE.</h3>
 
-<p align="left"> <img src="https://i.ibb.co.com/CphGhQPx/Whats-App-Image-2026-10-22-at-13-56-11-1.jpg" alt="Whats App Image 2026 10 22 at 13 56 11 (1)" border="0"> </p>
+<p align="left"> <img src="https://i.ibb.co.com/39ZXGD2Q/50-X-50px.jpg" alt="50 X 50px" border="0"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrezaul84" alt="devrezaul84" /></a> </p>
 
